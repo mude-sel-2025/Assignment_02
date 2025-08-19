@@ -3,7 +3,7 @@
 
 *Written by: `pradeep, prakash, and sudheendra`*
 
-*Due: `Tuesday, Aug 26, 2025`*
+*Due: `Tuesday, Aug 25, 2025`*
 
 📌 Overview
 This repository contains instructions and code implementations for Assignment 2 of CV 5100 – Modelling, Uncertainty, and Data for Engineers.
